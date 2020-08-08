@@ -1,0 +1,14 @@
+.swipeButtons{
+    position: fixed;
+    bottom:10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.swipeButtons .MuiIconButton-root{
+    background-color: white;
+    box-shadow: 0 18px 53px 0 rgb(0,0,0,0.7) !important;
+}
+
+
