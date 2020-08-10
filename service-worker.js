@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Tinder-Clonish/precache-manifest.614196121638fa563f4f51401129733f.js"
+  "/React-Tinder-Clonish/precache-manifest.73d9be47577e6ea30a3e2705c2a55dd7.js"
 );
 
 self.addEventListener('message', (event) => {
