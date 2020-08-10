@@ -1,12 +1,11 @@
-import React ,{ useState , useEffect } from 'react';
+import React ,{ useState } from 'react';
 import TinderCard from "react-tinder-card";
-import database from "../firebase";
-import "./TinderCards.css"
+import "./TinderCards.css";
 
 
 function TinderCards() {
 
-    const [people,setPeople] = useState([
+    const [people,] = useState([
         {
             name:"Elon Musk",
             url:"https://www.biography.com/.image/t_share/MTY2MzU3Nzk2OTM2MjMwNTkx/elon_musk_royal_society.jpg"
