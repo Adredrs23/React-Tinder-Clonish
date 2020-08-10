@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b10c62cb9738dc4ecba1ad0efddb1289",
+    "revision": "2df9b12fa7d4ae3a19478ddca762dba3",
     "url": "/React-Tinder-Clonish/index.html"
   },
   {
