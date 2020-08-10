@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Tinder-Clonish/static/css/main.b1e8d74b.chunk.css",
-    "main.js": "/React-Tinder-Clonish/static/js/main.9b00ede9.chunk.js",
-    "main.js.map": "/React-Tinder-Clonish/static/js/main.9b00ede9.chunk.js.map",
+    "main.js": "/React-Tinder-Clonish/static/js/main.29f922b0.chunk.js",
+    "main.js.map": "/React-Tinder-Clonish/static/js/main.29f922b0.chunk.js.map",
     "runtime-main.js": "/React-Tinder-Clonish/static/js/runtime-main.661ed774.js",
     "runtime-main.js.map": "/React-Tinder-Clonish/static/js/runtime-main.661ed774.js.map",
     "static/js/2.811f1d9f.chunk.js": "/React-Tinder-Clonish/static/js/2.811f1d9f.chunk.js",
     "static/js/2.811f1d9f.chunk.js.map": "/React-Tinder-Clonish/static/js/2.811f1d9f.chunk.js.map",
     "index.html": "/React-Tinder-Clonish/index.html",
-    "precache-manifest.73d9be47577e6ea30a3e2705c2a55dd7.js": "/React-Tinder-Clonish/precache-manifest.73d9be47577e6ea30a3e2705c2a55dd7.js",
+    "precache-manifest.022a8a1a49692b1ba6ddfb601581b673.js": "/React-Tinder-Clonish/precache-manifest.022a8a1a49692b1ba6ddfb601581b673.js",
     "service-worker.js": "/React-Tinder-Clonish/service-worker.js",
     "static/css/main.b1e8d74b.chunk.css.map": "/React-Tinder-Clonish/static/css/main.b1e8d74b.chunk.css.map",
     "static/js/2.811f1d9f.chunk.js.LICENSE.txt": "/React-Tinder-Clonish/static/js/2.811f1d9f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.661ed774.js",
     "static/js/2.811f1d9f.chunk.js",
     "static/css/main.b1e8d74b.chunk.css",
-    "static/js/main.9b00ede9.chunk.js"
+    "static/js/main.29f922b0.chunk.js"
   ]
 }
